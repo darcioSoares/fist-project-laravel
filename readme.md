@@ -1,6 +1,6 @@
 # Primeiro projeto em laravel
 
-### Pequeno crud com categorias
+### Crud
 
 
 
